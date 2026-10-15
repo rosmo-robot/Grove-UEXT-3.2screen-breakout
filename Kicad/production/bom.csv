@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0805,1,10uF,
+C2,0603,1,100nF,
+J1,PinHeader_1x15_P2.54mm_Horizontal,1,Conn_01x15_Pin,
+J10,PinHeader_2x05_P2.54mm_Vertical,1,UEXT,
+J2,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_LIGHT,
+J3,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_POT,
+J4,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_STICK,
+"J5_2, J5",JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,2,Grove_I2C,
+J6,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_DHT11,
+J7,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_BUZZER,
+J8,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_RELAY,
+J9,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,1,Grove_BUTTON,
