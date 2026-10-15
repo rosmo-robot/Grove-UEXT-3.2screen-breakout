@@ -25,7 +25,7 @@ Built for the [open hardware electronics starter kit](https://github.com/rosmo-r
 J5 shares IO26 and IO27 with the on-board touch controller. Any I2C module added there must not clash with its address.
 
 ## UEXT 
-2x5 male header, bottom of the board, pin 1 square [Olimex UEXT](https://www.olimex.com/Products/Modules/UEXT/)
+2x5 male header [Olimex UEXT](https://www.olimex.com/Products/Modules/UEXT/)
 
 | UEXT pin | Signal | GPIO | J1 pin | Shared with |
 |---|---|---|---|---|
